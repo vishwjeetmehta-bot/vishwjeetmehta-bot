@@ -1,2 +1,3 @@
-# Local preview files
+# Local preview and generator files
 preview.html
+generate_banner.ps1

@@ -2,7 +2,7 @@
 
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishwjeetmehta-bot/vishwjeetmehta-bot/main/assets/banner.svg?v=5" width="100%" alt="Vishwjeet Kumar Mehta - Senior DevOps &amp; DevSecOps Consultant" />
+  <img src="assets/banner.png" width="100%" alt="Vishwjeet Kumar Mehta - Senior DevOps &amp; DevSecOps Consultant" />
 </p>
 
 <!-- DYNAMIC TYPING ANIMATION -->
