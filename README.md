@@ -1,24 +1,32 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=220&section=header&text=Vishwjeet%20Kumar%20Mehta&fontSize=42&fontAlignY=38&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Infrastructure%20Architect&descSize=18&descAlignY=62&fontColor=ffffff" width="100%" alt="Vishwjeet Kumar Mehta Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=220&section=header&text=Vishwjeet%20Kumar%20Mehta&fontSize=40&fontAlignY=36&desc=Senior%20DevOps%20%26%20DevSecOps%20Consultant%20%40%20Shiksha%20Samadhan%20Pvt.%20Ltd.&descSize=17&descAlignY=62&fontColor=ffffff" width="100%" alt="Vishwjeet Kumar Mehta Banner" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Senior+DevOps+Engineer+%7C+Cloud+%26+Infrastructure+Architect;Enterprise+Azure+Landing+Zones+(CAF)+%26+Multi-Region+IaC;Automating+Zero-Downtime+Migration+for+100%2B+Workloads;Production+DevSecOps%2C+GitOps+%26+Kubernetes+Pipelines;Enterprise+Governance%2C+FinOps+Optimization+%26+Zero+Trust" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Senior+DevOps+%26+DevSecOps+Consultant+%40+Shiksha+Samadhan+Pvt.+Ltd.;10%2B+Years+Total+IT+Experience+%7C+8%2B+Years+DevOps+%26+DevSecOps;Enterprise+Azure+Landing+Zones+(CAF)+%26+Multi-Region+IaC;Zero-Downtime+Migration+Architect+(100%2B+Enterprise+Workloads);Shift-Left+DevSecOps%2C+Zero-Trust+Security+%26+FinOps+Optimization" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Architecting Resilient Cloud Foundations &bull; Automating Enterprise DevSecOps &bull; Scaling High-Availability Infrastructure</b>
+  <b>10+ Years Total IT Experience &bull; 8+ Years DevOps & DevSecOps Engineering &bull; Cloud & Infrastructure Architect</b>
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- HIGHLIGHT BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_IT_Experience-10%2B_Years-0078D4?style=for-the-badge&logo=clock&logoColor=white" alt="10+ Years IT Experience" />
+  <img src="https://img.shields.io/badge/DevOps_%26_DevSecOps-8%2B_Years-238636?style=for-the-badge&logo=azure-devops&logoColor=white" alt="8+ Years DevOps & DevSecOps" />
+  <img src="https://img.shields.io/badge/Current_Role-Sr._DevOps_%26_DevSecOps_Consultant-844FBA?style=for-the-badge&logo=shield&logoColor=white" alt="Senior DevOps Consultant" />
+  <img src="https://img.shields.io/badge/Company-Shiksha_Samadhan_Pvt._Ltd.-D14836?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Shiksha Samadhan Pvt. Ltd." />
+</p>
+
+<!-- SOCIAL & ACTION BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/vishwjeetmehta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vishwjeetmehta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-vishwjeetmehta@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="./SENIOR_DEVOPS_ARCHITECT_GUIDE.md">
     <img src="https://img.shields.io/badge/Architecture_Guide-Read_Handbook-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Architecture Guide" />
@@ -34,12 +42,14 @@
 
 ## 📌 Executive Summary
 
-I am a **Senior DevOps Engineer & Cloud Architect** with deep specialization in architecting, automating, and securing enterprise-grade cloud ecosystems. My core focus lies at the intersection of **business strategy, scalable infrastructure design, and operational excellence**—translating complex organizational requirements into reliable, cost-efficient, and zero-trust cloud platforms.
+I am a **Senior DevOps & DevSecOps Consultant** at **Shiksha Samadhan Pvt. Ltd.** with **10+ years of comprehensive IT industry experience**, including **8+ years dedicated to DevOps and DevSecOps engineering, cloud architecture, and infrastructure automation**. 
 
+My career combines deep hands-on technical execution with high-level consulting and architectural advisory:
+* 💼 **Consulting & Leadership @ Shiksha Samadhan Pvt. Ltd.:** Driving enterprise cloud adoption strategies, designing multi-region resilient landing zones, and institutionalizing shift-left DevSecOps security across development squads.
 * 🌐 **Enterprise Cloud Scale:** Proven track record in orchestrating multi-subscription **Microsoft Cloud Adoption Framework (CAF)** Enterprise Landing Zones and executing zero-downtime cutovers for **100+ multi-tier workloads**.
-* 🛡️ **DevSecOps & Shift-Left Security:** Implementing automated CI/CD security gates (SAST, SCA, container scanning, secret detection) and policy-as-code guardrails across enterprise delivery pipelines.
+* 🛡️ **DevSecOps & Zero-Trust Security:** Embedding automated security gates (SAST with SonarQube, SCA with Trivy/Snyk, secret scanning with GitLeaks, and IaC posture with Checkov) directly into CI/CD release trains with policy-as-code guardrails.
 * 💰 **FinOps & Cloud Economics:** Eliminating cloud waste, implementing automated lifecycle scheduling, rightsizing compute/storage resources, and optimizing commitments for **25%+ sustainable cloud spend reduction**.
-* 🤝 **Technical Leadership & Governance:** Bridging the gap between engineering teams and C-suite stakeholders through rigorous **RACI matrices, RFP/SOW evaluations, Disaster Recovery runbooks (RTO/RPO)**, and architectural compliance reviews.
+* 🤝 **Stakeholder Governance & Mentorship:** Translating business imperatives into architectural blueprints, leading vendor RFPs/SOW evaluations, establishing RACI delivery frameworks, and mentoring cross-functional engineering teams.
 
 ---
 
@@ -49,6 +59,9 @@ I am a **Senior DevOps Engineer & Cloud Architect** with deep specialization in 
 
 | Metric | Business Impact & Operational Scale |
 | :---: | :--- |
+| **10+ Years** | **Total IT Experience** spanning systems engineering, enterprise infrastructure, cloud transformation, and consulting |
+| **8+ Years** | **Specialized DevOps & DevSecOps Engineering** architecting resilient CI/CD pipelines, IaC, and Kubernetes platforms |
+| **Current Role** | **Senior DevOps & DevSecOps Consultant** leading infrastructure modernization at **Shiksha Samadhan Pvt. Ltd.** |
 | **100+** | **Enterprise Workloads Migrated** from On-Premises to Cloud with zero data loss and structured hypercare |
 | **99.99%** | **High Availability SLA** achieved via multi-zone VMSS, active geo-redundancy, and Azure Site Recovery |
 | **28%** | **Average Cloud Spend Reduction** driven by proactive FinOps governance, rightsizing, and RI commitments |
@@ -56,6 +69,18 @@ I am a **Senior DevOps Engineer & Cloud Architect** with deep specialization in 
 | **100% IaC** | **Modular Terraform & CI/CD Drift Detection** eliminating manual configuration drift across environments |
 
 </div>
+
+---
+
+## 💼 Professional Experience & Consulting Highlights
+
+### 🏢 Senior DevOps & DevSecOps Consultant &bull; *Shiksha Samadhan Pvt. Ltd.*
+* **Enterprise Cloud Architecture:** Design and deploy multi-subscription landing zones following Microsoft Cloud Adoption Framework (CAF) with strict Hub-and-Spoke network isolation and zero public endpoint exposure.
+* **DevSecOps Shift-Left Transformation:** Architect end-to-end CI/CD delivery pipelines in Azure DevOps and GitHub Actions, embedding static analysis (SAST), software composition analysis (SCA), container vulnerability scanning (Trivy), and secret detection (GitLeaks).
+* **Policy as Code & Compliance:** Enforce enterprise governance using Azure Policy, Checkov, and CIS Benchmarks at the Management Group scope, ensuring automated guardrails and audit readiness.
+* **FinOps Governance:** Spearhead cloud cost optimization programs, implementing compute rightsizing, storage tier lifecycle policies, and automated scheduling for non-production environments to slash operational waste by 25%+.
+* **Kubernetes & Container Hardening:** Manage hardened Azure Kubernetes Service (AKS) clusters with Azure CNI, pod identity, Network Policies, ingress controllers, and automated cert-manager TLS rotations.
+* **Engineering Leadership & Client Advisory:** Serve as the senior technical advisor to leadership and clients; conduct architectural review boards, vendor SOW evaluations, and mentor DevOps engineers across agile release trains.
 
 ---
 
@@ -77,7 +102,7 @@ I am a **Senior DevOps Engineer & Cloud Architect** with deep specialization in 
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### CI/CD, DevSecOps & Governance
+### CI/CD, DevSecOps & Shift-Left Security
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
@@ -350,6 +375,6 @@ Whether you are looking to discuss **large-scale cloud migrations**, **enterpris
 
 <br><br>
 
-<sub>Designed with ❤️ and built for enterprise scale by <b>Vishwjeet Kumar Mehta</b> &bull; Last updated 2026</sub>
+<sub>Designed with ❤️ and built for enterprise scale by <b>Vishwjeet Kumar Mehta</b> &bull; Senior DevOps & DevSecOps Consultant @ Shiksha Samadhan Pvt. Ltd. &bull; Last updated 2026</sub>
 
 </div>

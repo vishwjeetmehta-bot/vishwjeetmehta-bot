@@ -1,7 +1,8 @@
 # 🎯 Senior DevOps / Cloud Architect Master Handbook & Interview Blueprint
 
-> **Author:** Vishwjeet Kumar Mehta  
-> **Target Audience:** Cloud Architects, Principal DevOps Engineers, Technical Leads, and Hiring Managers  
+> **Author:** Vishwjeet Kumar Mehta &bull; Senior DevOps & DevSecOps Consultant at Shiksha Samadhan Pvt. Ltd.  
+> **Profile:** 10+ Years Total IT Industry Experience | 8+ Years Specialized DevOps & DevSecOps Engineering  
+> **Target Audience:** Cloud Architects, Principal DevOps Engineers, DevSecOps Leads, Engineering Directors, and Hiring Managers  
 > **Session Context:** Core architectural pillars, enterprise governance, end-to-end cloud migration strategy (100+ workloads), DevSecOps automation, FinOps, SRE, team leadership, and vendor management.
 
 ---
