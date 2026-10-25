@@ -2,21 +2,8 @@
 
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishwjeetmehta-bot/vishwjeetmehta-bot/main/assets/banner.svg?v=3" width="100%" alt="Vishwjeet Kumar Mehta - Senior DevOps &amp; DevSecOps Consultant" />
+  <img src="https://raw.githubusercontent.com/vishwjeetmehta-bot/vishwjeetmehta-bot/main/assets/banner.svg?v=5" width="100%" alt="Vishwjeet Kumar Mehta - Senior DevOps &amp; DevSecOps Consultant" />
 </p>
-
-<!-- ASCII BRAND LOGO CREATIVITY -->
-<pre align="center">
-<font color="#58A6FF">
-██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗ ██████╗ ███████╗
-██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔════╝
-██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗█████╗  ██║   ██║██████╔╝███████╗
-██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║██╔══╝  ██║   ██║██╔═══╝ ╚════██║
-██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║███████╗╚██████╔╝██║     ███████║
-╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝
-</font>
-<font color="#79C0FF"><b>CLOUD ARCHITECTURE &bull; ENTERPRISE LANDING ZONES &bull; DEVSECOPS &bull; FINOPS &bull; SRE RESILIENCE</b></font>
-</pre>
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
