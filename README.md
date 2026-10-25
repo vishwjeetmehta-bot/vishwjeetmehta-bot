@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=220&section=header&text=Vishwjeet%20Kumar%20Mehta&fontSize=40&fontAlignY=36&desc=Senior%20DevOps%20%26%20DevSecOps%20Consultant%20%40%20Shiksha%20Samadhan%20Pvt.%20Ltd.&descSize=17&descAlignY=62&fontColor=ffffff" width="100%" alt="Vishwjeet Kumar Mehta Banner" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishwjeetmehta-bot/vishwjeetmehta-bot/main/assets/banner.svg" width="100%" alt="Vishwjeet Kumar Mehta - Senior DevOps &amp; DevSecOps Consultant" />
+</p>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">

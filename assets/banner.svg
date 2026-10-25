@@ -1,0 +1,194 @@
+<svg width="100%" height="100%" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040711" />
+      <stop offset="40%" stop-color="#091428" />
+      <stop offset="70%" stop-color="#0d1b33" />
+      <stop offset="100%" stop-color="#050a14" />
+    </linearGradient>
+
+    <!-- Border Accent Gradient -->
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0078D4" />
+      <stop offset="25%" stop-color="#1F6FEB" />
+      <stop offset="50%" stop-color="#58A6FF" />
+      <stop offset="75%" stop-color="#238636" />
+      <stop offset="100%" stop-color="#844FBA" />
+    </linearGradient>
+
+    <!-- Card Background Gradient -->
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#162238" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#0b1322" stop-opacity="0.85" />
+    </linearGradient>
+
+    <!-- Text Accent Gradient -->
+    <linearGradient id="text-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" />
+      <stop offset="50%" stop-color="#79C0FF" />
+      <stop offset="100%" stop-color="#56D364" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .name-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+      font-size: 44px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      fill: #FFFFFF;
+    }
+    .role-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+      font-size: 21px;
+      font-weight: 600;
+      letter-spacing: 0.2px;
+      fill: url(#text-accent);
+    }
+    .company-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      font-weight: 600;
+      fill: #E6EDF3;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #C9D1D9;
+    }
+    .pill-value {
+      font-weight: 700;
+      fill: #58A6FF;
+    }
+    .tag-text {
+      font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+      font-size: 12px;
+      font-weight: 600;
+      fill: #8B949E;
+    }
+  </style>
+
+  <!-- Background Base Container -->
+  <rect x="0" y="0" width="1200" height="340" rx="16" fill="url(#bg-grad)" />
+
+  <!-- Outer Glowing Border -->
+  <rect x="2" y="2" width="1196" height="336" rx="14" fill="none" stroke="url(#border-grad)" stroke-width="2" opacity="0.8" />
+
+  <!-- Subtle Cyber Tech Grid Pattern -->
+  <g opacity="0.08" stroke="#58A6FF" stroke-width="1">
+    <line x1="80" y1="0" x2="80" y2="340" />
+    <line x1="160" y1="0" x2="160" y2="340" />
+    <line x1="240" y1="0" x2="240" y2="340" />
+    <line x1="320" y1="0" x2="320" y2="340" />
+    <line x1="400" y1="0" x2="400" y2="340" />
+    <line x1="480" y1="0" x2="480" y2="340" />
+    <line x1="560" y1="0" x2="560" y2="340" />
+    <line x1="640" y1="0" x2="640" y2="340" />
+    <line x1="720" y1="0" x2="720" y2="340" />
+    <line x1="800" y1="0" x2="800" y2="340" />
+    <line x1="880" y1="0" x2="880" y2="340" />
+    <line x1="960" y1="0" x2="960" y2="340" />
+    <line x1="1040" y1="0" x2="1040" y2="340" />
+    <line x1="1120" y1="0" x2="1120" y2="340" />
+
+    <line x1="0" y1="60" x2="1200" y2="60" />
+    <line x1="0" y1="120" x2="1200" y2="120" />
+    <line x1="0" y1="180" x2="1200" y2="180" />
+    <line x1="0" y1="240" x2="1200" y2="240" />
+    <line x1="0" y1="300" x2="1200" y2="300" />
+  </g>
+
+  <!-- Ambient Light Orbs -->
+  <circle cx="1050" cy="80" r="140" fill="#1F6FEB" opacity="0.18" filter="url(#glow)" />
+  <circle cx="150" cy="260" r="120" fill="#0078D4" opacity="0.12" filter="url(#glow)" />
+  <circle cx="980" cy="270" r="100" fill="#238636" opacity="0.12" filter="url(#glow)" />
+
+  <!-- Left Accent Terminal Icon Box -->
+  <g transform="translate(60, 48)">
+    <rect width="64" height="64" rx="14" fill="#0D192E" stroke="#1F6FEB" stroke-width="1.5" />
+    <path d="M22 24L30 32L22 40" stroke="#58A6FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="34" y1="40" x2="44" y2="40" stroke="#56D364" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <!-- Header Text Section -->
+  <g transform="translate(144, 72)">
+    <text x="0" y="0" class="name-text">Vishwjeet Kumar Mehta</text>
+    <text x="0" y="32" class="role-text">Senior DevOps &amp; DevSecOps Consultant &bull; Cloud Architect</text>
+  </g>
+
+  <!-- Company Pill Badge -->
+  <g transform="translate(144, 126)">
+    <rect width="365" height="34" rx="17" fill="#0F2038" stroke="#388BFD" stroke-width="1.2" />
+    <!-- Office Building Icon -->
+    <path d="M16 12H28V24H16V12Z" fill="#58A6FF" opacity="0.8" />
+    <rect x="19" y="15" width="2" height="2" fill="#FFFFFF" />
+    <rect x="23" y="15" width="2" height="2" fill="#FFFFFF" />
+    <rect x="19" y="19" width="2" height="2" fill="#FFFFFF" />
+    <rect x="23" y="19" width="2" height="2" fill="#FFFFFF" />
+    <text x="36" y="22" class="company-text">Shiksha Samadhan Pvt. Ltd.</text>
+    <circle cx="282" cy="17" r="3" fill="#3FB950" />
+    <text x="294" y="22" class="tag-text">CURRENT ROLE</text>
+  </g>
+
+  <!-- Highlight Stat Cards Row -->
+  <g transform="translate(60, 185)">
+    <!-- Stat 1: Total Experience -->
+    <g transform="translate(0, 0)">
+      <rect width="250" height="68" rx="12" fill="url(#card-grad)" stroke="#30363D" stroke-width="1.2" />
+      <text x="20" y="30" class="badge-text">TOTAL IT EXPERIENCE</text>
+      <text x="20" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20px" font-weight="800" fill="#FFFFFF">
+        10+ Years <tspan font-size="13px" font-weight="500" fill="#8B949E">(Enterprise Scale)</tspan>
+      </text>
+      <circle cx="225" cy="34" r="14" fill="#0078D4" opacity="0.25" />
+      <text x="221" y="38" font-size="12px" fill="#58A6FF">⚡</text>
+    </g>
+
+    <!-- Stat 2: DevOps Specialization -->
+    <g transform="translate(270, 0)">
+      <rect width="250" height="68" rx="12" fill="url(#card-grad)" stroke="#30363D" stroke-width="1.2" />
+      <text x="20" y="30" class="badge-text">DEVOPS &amp; DEVSECOPS</text>
+      <text x="20" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20px" font-weight="800" fill="#56D364">
+        8+ Years <tspan font-size="13px" font-weight="500" fill="#8B949E">(Architecture &amp; CI/CD)</tspan>
+      </text>
+      <circle cx="225" cy="34" r="14" fill="#238636" opacity="0.25" />
+      <text x="220" y="38" font-size="12px" fill="#56D364">🛡️</text>
+    </g>
+
+    <!-- Stat 3: Migration Scale -->
+    <g transform="translate(540, 0)">
+      <rect width="250" height="68" rx="12" fill="url(#card-grad)" stroke="#30363D" stroke-width="1.2" />
+      <text x="20" y="30" class="badge-text">ENTERPRISE MIGRATION</text>
+      <text x="20" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20px" font-weight="800" fill="#79C0FF">
+        100+ Workloads <tspan font-size="13px" font-weight="500" fill="#8B949E">(Zero Downtime)</tspan>
+      </text>
+      <circle cx="225" cy="34" r="14" fill="#1F6FEB" opacity="0.25" />
+      <text x="220" y="38" font-size="12px" fill="#79C0FF">🚀</text>
+    </g>
+
+    <!-- Stat 4: Cost & FinOps -->
+    <g transform="translate(810, 0)">
+      <rect width="270" height="68" rx="12" fill="url(#card-grad)" stroke="#30363D" stroke-width="1.2" />
+      <text x="20" y="30" class="badge-text">FINOPS COST OPTIMIZATION</text>
+      <text x="20" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20px" font-weight="800" fill="#E3B341">
+        28% Average Savings <tspan font-size="13px" font-weight="500" fill="#8B949E">(ROI)</tspan>
+      </text>
+      <circle cx="245" cy="34" r="14" fill="#D29922" opacity="0.25" />
+      <text x="240" y="38" font-size="12px" fill="#E3B341">💰</text>
+    </g>
+  </g>
+
+  <!-- Bottom Core Competencies Tagline -->
+  <g transform="translate(60, 290)">
+    <text x="0" y="0" class="tag-text">
+      CORE PILLARS: <tspan fill="#58A6FF">Microsoft CAF Landing Zones</tspan> &bull; <tspan fill="#79C0FF">Multi-Region Terraform IaC</tspan> &bull; <tspan fill="#56D364">Shift-Left DevSecOps</tspan> &bull; <tspan fill="#D2A8FF">Kubernetes (AKS)</tspan> &bull; <tspan fill="#FFA657">FinOps &amp; 99.99% SRE Resilience</tspan>
+    </text>
+  </g>
+</svg>
