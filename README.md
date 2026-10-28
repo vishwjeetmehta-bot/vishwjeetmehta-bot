@@ -541,11 +541,11 @@ Explore my production-ready IaC modules and DevSecOps frameworks:
 
 | Repository / Module | Description | Primary Technologies | Architecture Type |
 | :--- | :--- | :--- | :--- |
-| 🌐 [**azure-enterprise-landing-zone**](https://github.com/vishwjeetmehta-bot) | Production Terraform module implementing Microsoft CAF Hub-and-Spoke architecture, Azure Firewall, and Private DNS. | `Terraform` `Azure` `HCL` `Networking` | Enterprise Infrastructure |
-| 🛡️ [**devsecops-pipeline-templates**](https://github.com/vishwjeetmehta-bot) | Reusable Azure DevOps & GitHub Actions YAML templates integrating Checkov, Trivy, GitLeaks, and Infracost. | `Azure Pipelines` `GitHub Actions` `Checkov` | Security & Compliance |
-| ☸️ [**hardened-aks-cluster-baseline**](https://github.com/vishwjeetmehta-bot) | Production-ready AKS baseline with Azure CNI, Pod Identity, Ingress-Nginx, cert-manager, and network policies. | `Kubernetes` `AKS` `Helm` `Bash` | Container Orchestration |
-| 💰 [**azure-finops-waste-cleaner**](https://github.com/vishwjeetmehta-bot) | Automated serverless functions and PowerShell scripts to identify orphaned disks, idle IPs, and unattached snapshots. | `PowerShell` `Python` `Azure Functions` | FinOps & Automation |
-| 🔄 [**terraform-drift-detection-engine**](https://github.com/vishwjeetmehta-bot) | Scheduled pipeline automator that compares live Azure state against Git IaC baselines and triggers Teams alerts on drift. | `Terraform` `Bash` `Azure DevOps` `Webhooks` | SRE & Operations |
+| 🌐 [**azure-enterprise-landing-zone**](https://github.com/vishwjeetmehta-bot/azure-enterprise-landing-zone) | Production Terraform module implementing Microsoft CAF Hub-and-Spoke architecture, Azure Firewall, and Private DNS. | `Terraform` `Azure` `HCL` `Networking` | Enterprise Infrastructure |
+| 🛡️ [**devsecops-pipeline-templates**](https://github.com/vishwjeetmehta-bot/devsecops-pipeline-templates) | Reusable Azure DevOps & GitHub Actions YAML templates integrating Checkov, Trivy, GitLeaks, and Infracost — full 6-gate Shift-Left DevSecOps pipeline. | `Azure Pipelines` `GitHub Actions` `Checkov` `Trivy` `GitLeaks` | Security & Compliance |
+| ☸️ [**hardened-aks-cluster-baseline**](https://github.com/vishwjeetmehta-bot/hardened-aks-cluster-baseline) | Production-ready AKS baseline with Azure CNI, Pod Identity, Ingress-Nginx, cert-manager, and network policies. | `Kubernetes` `AKS` `Helm` `Bash` | Container Orchestration |
+| 💰 [**azure-finops-waste-cleaner**](https://github.com/vishwjeetmehta-bot/azure-finops-waste-cleaner) | Automated serverless functions and PowerShell scripts to identify orphaned disks, idle IPs, and unattached snapshots. | `PowerShell` `Python` `Azure Functions` | FinOps & Automation |
+| 🔄 [**terraform-drift-detection-engine**](https://github.com/vishwjeetmehta-bot/terraform-drift-detection-engine) | Scheduled pipeline automator that compares live Azure state against Git IaC baselines and triggers Teams alerts on drift. | `Terraform` `Bash` `Azure DevOps` `Webhooks` | SRE & Operations |
 
 > 📖 **Looking for comprehensive technical interview prep & architecture deep-dives?**  
 > Check out the complete in-depth handbook: [**`SENIOR_DEVOPS_ARCHITECT_GUIDE.md`**](./SENIOR_DEVOPS_ARCHITECT_GUIDE.md) covering architectural case studies, migration checklists, FinOps tactics, and vendor governance in detail.
