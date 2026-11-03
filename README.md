@@ -583,7 +583,7 @@ Whether you are looking to discuss **large-scale cloud migrations**, **enterpris
 
 <div align="center">
 
-<a href="https://linkedin.com/in/vishwjeetmehta" target="_blank">
+<a href="https://linkedin.com/in/vishwjeet-mehta" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
